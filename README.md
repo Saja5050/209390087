@@ -2,7 +2,7 @@
 Assignment1
 Hi, my name is Saja Abu krenat and that's my website about the queen Elizabeth.
 
-you can find it here - https://github.com/Saja5050/209390087/
+you can find it here -https://saja5050.github.io/209390087/
 
 I hope you will enjoy at least as much as i enjoyed doing it!!
 
