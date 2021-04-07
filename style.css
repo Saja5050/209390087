@@ -54,32 +54,33 @@
 }
 
 .my_photos {
+    border: 1px solid black;
     margin-left: 20px;
+    margin-bottom: 20px;
 }
 
-.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
+.my_play {
+    margin-top: 50px;
 }
 
 .Ptitle {
-    margin-left: 50%;
     color: rgb(3, 3, 3);
 }
 
-.gallery img {
-    width: 100%;
-    height: auto;
+.img {
+    margin-left: 25px;
 }
 
-.desc {
-    background-color: azure;
-    padding: 15px;
-    text-align: center;
+.like {
+    margin-left: 40%;
 }
 
-#likeToPage {
-    display: inline;
+.likeMe {}
+
+.Qr {
+    margin-left: 40%;
+}
+
+.video {
+    margin-left: 25%;
 }
